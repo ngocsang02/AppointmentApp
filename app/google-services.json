@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "10483483835",
+    "firebase_url": "https://appointmentapp-5c561-default-rtdb.firebaseio.com",
+    "project_id": "appointmentapp-5c561",
+    "storage_bucket": "appointmentapp-5c561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10483483835:android:c19e453f6d04ff2f83959e",
+        "android_client_info": {
+          "package_name": "com.tutorials.appointmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJXemFerfvXof9Od_n_egEKIy_s-Ut_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
